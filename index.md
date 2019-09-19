@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+<link rel="shortcut icon" type="image/x-icon" href="Images/favicon.ico">
+<img src="Images/logo.png">
+
+## Homepage
 
 You can use the [editor on GitHub](https://github.com/Cooljackup/Discord3DS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
