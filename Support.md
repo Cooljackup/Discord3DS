@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to the other page.
+## Welcome to the Support Page.
 
 _yay_.
 
-[back](https://cooljackup.github.io/Discord3DS/)
+[back](./)
