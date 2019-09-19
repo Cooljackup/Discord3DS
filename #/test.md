@@ -6,4 +6,4 @@ layout: default
 
 _yay_.
 
-[back](./)
+[back](https://cooljackup.github.io/Discord3DS/)

@@ -36,4 +36,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Link to another page.](./test.md)
+[Link to another page.](./Website/test.md)
