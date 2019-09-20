@@ -1,12 +1,10 @@
----
-layout: default
----
 <link rel="shortcut icon" type="image/x-icon" href="Images/favicon.ico">
 <img src="Images/logo.png">
 
 ## Information Page
 
 Welcome to the Information Page! Below is some info about **Discord3DS**!
+
 
 ---
 ### What is Discord3DS?
