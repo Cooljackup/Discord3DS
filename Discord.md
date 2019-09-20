@@ -17,14 +17,14 @@ You can contact me multiple ways, either through Discord, Twitter, or even on he
 
 **Discord:** *Zethical#5225*
 
-**Twitter:** *https://twitter.com/Cooljackup*
+**Twitter:** *[https://twitter.com/Cooljackup](https://twitter.com/Cooljackup)*
 
-**Github:** *https://github.com/Cooljackup*
+**Github:** *[https://github.com/Cooljackup](https://github.com/Cooljackup)*
 
 ---
 ### Wheres the Discord Server!?
 
-Right here! **Link:** *https://discord.gg/4J482S9*
+Right here! **Link:** *[https://discord.gg/4J482S9](https://discord.gg/4J482S9)*
 
 ---
 [Return to the Discord3DS Homepage?](./)
