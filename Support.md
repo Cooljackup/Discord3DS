@@ -7,4 +7,4 @@ Welcome to the Support Page! Here you'll find solutions or help if you have an i
 
 
 
-[Return to the Homepage?](./)
+[Return to the Discord3DS Homepage?](./)
