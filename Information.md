@@ -27,20 +27,20 @@ I know some of you are wondering, `Why not do Nintendo Switch first?` or, `The N
 ---
 ### Q/A
 
-* Are you ever going to make a Switch version/port?
-- Honestly, I dont know how to answer this. I might, I might not. It all depends how much effort and trouble I have to go to do so.
+* **Are you ever going to make a Switch version/port?**
+Honestly, I dont know how to answer this. I might, I might not. It all depends how much effort and trouble I have to go to do so.
 
 
-* Why didnt you just make it just one unified project, so 3DS and Switch together?
-- Sadly, I wish I could this, but since both use very different hardware and account programming, I think its impossible to make one program out of it.
+* **Why didnt you just make it just one unified project, so 3DS and Switch together?**
+Sadly, I wish I could this, but since both use very different hardware and account programming, I think its impossible to make one program out of it.
 
 
-* What else do you plan on doing with Discord3DS?
-- Im hoping to aim add as much capability and functionality to as possible. Im hoping to atleast get something involved with the Friends List at some point. As of right now, just basic functionality and basic functions to get this up and running fully.
+* **What else do you plan on doing with Discord3DS?**
+Im hoping to aim add as much capability and functionality to as possible. Im hoping to atleast get something involved with the Friends List at some point. As of right now, just basic functionality and basic functions to get this up and running fully.
 
 
-* When is this going to get released?
-- I cant set a date on this, this could be finished in a week, a month, or even a year. Its however long until I feel satisfied. 
+* **When is this going to get released?**
+I cant set a date on this, this could be finished in a week, a month, or even a year. Its however long until I feel satisfied. 
 
 
 ## More Soon!
