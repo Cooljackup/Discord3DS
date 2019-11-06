@@ -27,4 +27,4 @@ You can contact me multiple ways, either through Discord, Twitter, or even on he
 Right here! **Link:** *[https://discord.gg/4J482S9](https://discord.gg/4J482S9)*
 
 ---
-[Return to the Discord3DS Homepage?](./)
+[Return to the Discord3DS Homepage?](./index.md)
